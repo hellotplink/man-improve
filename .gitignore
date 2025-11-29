@@ -1,0 +1,15 @@
+# Mac系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE配置
+.claude/
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+*.swp
+*~
+
