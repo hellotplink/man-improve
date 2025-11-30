@@ -99,10 +99,16 @@ man-improve/
 
 <p align="center">
   <img src="./assets/images/ailida.jpg" width="120" alt="艾力达"/>
+  <img src="./assets/images/ailida2.jpg" width="120" alt="艾力达2"/>
+  <img src="./assets/images/xiaili.jpg" width="120" alt="希爱力"/>
   <img src="./assets/images/jinzuan.jpg" width="120" alt="金钻"/>
   <img src="./assets/images/lanzuan.jpg" width="120" alt="蓝钻"/>
-  <img src="./assets/images/dianfenglanp.jpg" width="120" alt="巅峰蓝P"/>
+</p>
+<p align="center">
+  <img src="./assets/images/baijinkedou.jpg" width="120" alt="白金蝌蚪"/>
+  <img src="./assets/images/lankedou2.jpg" width="120" alt="蓝蝌蚪"/>
   <img src="./assets/images/lvkedou.jpg" width="120" alt="绿蝌蚪"/>
+  <img src="./assets/images/dianfenglanp.jpg" width="120" alt="巅峰蓝P"/>
   <img src="./assets/images/xiaolvping.jpg" width="120" alt="小绿瓶"/>
 </p>
 
