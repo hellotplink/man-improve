@@ -42,14 +42,14 @@ This knowledge base systematically organizes information about products for trea
 
 ```
 india/
-├── README.md                 # 中文说明文档
+├── README.md                 # Chinese Documentation
 ├── README.en.md              # English Documentation (this file)
 │
 ├── products/                 # Product Information
 │   ├── index.md              # Product Index
-│   ├── ed/                   # ED Treatment Products
-│   ├── pe/                   # PE Treatment Products
-│   └── combination/          # Combination Products
+│   ├── ed/                   # ED Treatment Products (7 docs)
+│   ├── pe/                   # PE Treatment Products (1 doc)
+│   └── combination/          # Combination Products (5 docs)
 │
 ├── education/                # Educational Resources
 │   ├── natural-recovery-methods.md   # Natural Recovery Methods
@@ -57,25 +57,46 @@ india/
 │   ├── mechanism-of-action.md        # Mechanism of Action
 │   └── drug-interactions.md          # Drug Interactions
 │
-├── docs/                     # Multilingual Documents
-│   ├── zh/                   # Chinese Documents
-│   └── en/                   # English Documents
-│       ├── medications/
-│       ├── safety/
-│       └── lifestyle/
-│
-├── resources/                # Resource Files
-│   ├── pdfs/                 # PDF Resources
+├── resources/                # 🌟 Practical Resources (Key Content)
 │   ├── skills/               # Skills & Techniques
-│   └── communication/        # Communication & EQ
+│   │   ├── kegel-exercises.md        # Kegel Exercises
+│   │   ├── delay-techniques.md       # Delay Techniques
+│   │   ├── exercise-guide.md         # Exercise Guide
+│   │   ├── nutrition-tcm-guide.md    # Nutrition Guide
+│   │   └── tcm-herbs-guide.md        # TCM Herbs Guide
+│   ├── communication/        # Communication & Psychology
+│   │   ├── couples-communication.md  # Couples Communication
+│   │   ├── intimacy-guide.md         # Intimacy Guide
+│   │   ├── confidence-building.md    # Confidence Building
+│   │   ├── emotional-intelligence.md # Emotional Intelligence
+│   │   └── self-improvement.md       # Self Improvement
+│   └── pdfs/                 # PDF Resources
 │
-├── assets/                   # Image Assets
+├── assets/                   # Static Assets
+│   ├── images/               # Product Images
+│   └── pdfs/                 # E-book Files
+│
+├── docs/                     # Multilingual Documents
+│   ├── zh/                   # Chinese Version
+│   └── en/                   # English Version
+│
 └── references/               # References
 ```
 
 ---
 
 ## Product Categories
+
+### Product Gallery
+
+<p align="center">
+  <img src="./assets/images/ailida.jpg" width="120" alt="Levitra"/>
+  <img src="./assets/images/jinzuan.jpg" width="120" alt="Golden Diamond"/>
+  <img src="./assets/images/lanzuan.jpg" width="120" alt="Blue Diamond"/>
+  <img src="./assets/images/dianfenglanp.jpg" width="120" alt="Super Kamagra"/>
+  <img src="./assets/images/lvkedou.jpg" width="120" alt="Green Tadpole"/>
+  <img src="./assets/images/xiaolvping.jpg" width="120" alt="Green Bottle"/>
+</p>
 
 ### PDE5 Inhibitors (ED Treatment)
 
@@ -151,6 +172,44 @@ Seek immediate medical attention if:
 - Severe allergic reactions (rash, swelling)
 
 [View Complete Safety Guidelines](./education/safety-guidelines.md)
+
+---
+
+## Practical Resource Center
+
+Beyond product knowledge, we provide comprehensive self-improvement resources:
+
+### 🏋️ Exercise & Techniques
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Kegel Exercise Guide | Pelvic floor training for better control | [View](./resources/skills/kegel-exercises.md) |
+| Delay Training Techniques | Start-stop method, squeeze technique | [View](./resources/skills/delay-techniques.md) |
+| Exercise & Fitness Guide | Squats, running, strength training | [View](./resources/skills/exercise-guide.md) |
+
+### 🌿 Nutrition & TCM
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Nutrition Guide | Modern nutritional approaches | [View](./resources/skills/nutrition-tcm-guide.md) |
+| TCM Herbs Guide | 19 herbs explained with combinations | [View](./resources/skills/tcm-herbs-guide.md) |
+
+### 💬 Communication & Psychology
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Couples Communication | Active listening, NVC, conflict resolution | [View](./resources/communication/couples-communication.md) |
+| Intimacy Guide | Foreplay, emotional connection, harmony | [View](./resources/communication/intimacy-guide.md) |
+| Confidence Building | Overcome anxiety, build self-esteem | [View](./resources/communication/confidence-building.md) |
+| Emotional Intelligence | Self-awareness, empathy, social skills | [View](./resources/communication/emotional-intelligence.md) |
+| Self Improvement | Personal growth during single life | [View](./resources/communication/self-improvement.md) |
+
+### 📚 Additional Resources
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| PDF Library | Recommended books & materials | [View](./resources/pdfs/) |
+| Natural Recovery | Lifestyle improvement guide | [View](./education/natural-recovery-methods.md) |
 
 ---
 

@@ -47,38 +47,56 @@ india/
 │
 ├── products/                 # 产品信息目录
 │   ├── index.md              # 产品分类索引
-│   ├── ed/                   # ED治疗产品
-│   ├── pe/                   # PE治疗产品
-│   └── combination/          # 复方双效产品
+│   ├── ed/                   # ED治疗产品（7个文档）
+│   ├── pe/                   # PE治疗产品（1个文档）
+│   └── combination/          # 复方双效产品（5个文档）
 │
-├── education/                # 教育资源
+├── education/                # 教育科普
 │   ├── natural-recovery-methods.md   # 自然恢复方法
 │   ├── safety-guidelines.md          # 安全使用指南
 │   ├── mechanism-of-action.md        # 作用机制详解
 │   └── drug-interactions.md          # 药物相互作用
 │
-├── docs/                     # 多语言详细文档
-│   ├── zh/                   # 中文文档
-│   │   ├── medications/      # 药物指南
-│   │   ├── safety/           # 安全信息
-│   │   └── lifestyle/        # 生活方式
-│   └── en/                   # English Documents
-│       ├── medications/
-│       ├── safety/
-│       └── lifestyle/
-│
-├── resources/                # 资源文件
-│   ├── pdfs/                 # PDF电子书资源
+├── resources/                # 🌟 实用资源（重点内容）
 │   ├── skills/               # 技巧与方法
-│   └── communication/        # 沟通与情商
+│   │   ├── kegel-exercises.md        # 凯格尔运动
+│   │   ├── delay-techniques.md       # 延时技巧
+│   │   ├── exercise-guide.md         # 运动健身
+│   │   ├── nutrition-tcm-guide.md    # 饮食营养
+│   │   └── tcm-herbs-guide.md        # 中药指南
+│   ├── communication/        # 沟通与心理
+│   │   ├── couples-communication.md  # 两性沟通
+│   │   ├── intimacy-guide.md         # 亲密技巧
+│   │   ├── confidence-building.md    # 自信建设
+│   │   ├── emotional-intelligence.md # 情商提升
+│   │   └── self-improvement.md       # 自我提升
+│   └── pdfs/                 # PDF资源库
 │
-├── assets/                   # 图片资源
+├── assets/                   # 静态资源
+│   ├── images/               # 产品图片
+│   └── pdfs/                 # 电子书文件
+│
+├── docs/                     # 多语言详细文档
+│   ├── zh/                   # 中文版
+│   └── en/                   # 英文版
+│
 └── references/               # 参考资料
 ```
 
 ---
 
 ## 产品分类
+
+### 产品图片展示
+
+<p align="center">
+  <img src="./assets/images/ailida.jpg" width="120" alt="艾力达"/>
+  <img src="./assets/images/jinzuan.jpg" width="120" alt="金钻"/>
+  <img src="./assets/images/lanzuan.jpg" width="120" alt="蓝钻"/>
+  <img src="./assets/images/dianfenglanp.jpg" width="120" alt="巅峰蓝P"/>
+  <img src="./assets/images/lvkedou.jpg" width="120" alt="绿蝌蚪"/>
+  <img src="./assets/images/xiaolvping.jpg" width="120" alt="小绿瓶"/>
+</p>
 
 ### PDE5抑制剂（ED治疗）
 
@@ -171,16 +189,41 @@ india/
 
 ---
 
-## 更多资源
+## 实用资源中心
 
-- [产品完整索引](./products/index.md)
-- [自然恢复方法](./education/natural-recovery-methods.md)
-- [安全使用指南](./education/safety-guidelines.md)
-- [药物作用机制](./education/mechanism-of-action.md)
-- [药物相互作用](./education/drug-interactions.md)
-- [PDF资源库](./resources/pdfs/)
-- [技巧与方法](./resources/skills/)
-- [沟通与情商](./resources/communication/)
+除了产品知识，我们提供全面的自我提升资源：
+
+### 🏋️ 运动与技巧
+
+| 资源 | 说明 | 链接 |
+|------|------|------|
+| 凯格尔运动指南 | 盆底肌训练，改善控制能力 | [查看](./resources/skills/kegel-exercises.md) |
+| 延时训练技巧 | 动-停法、挤压法等科学方法 | [查看](./resources/skills/delay-techniques.md) |
+| 运动健身指南 | 深蹲、跑步、力量训练 | [查看](./resources/skills/exercise-guide.md) |
+
+### 🌿 饮食与中医
+
+| 资源 | 说明 | 链接 |
+|------|------|------|
+| 饮食营养指南 | 现代营养学调理方案 | [查看](./resources/skills/nutrition-tcm-guide.md) |
+| 补肾中药指南 | 19种中药详解与配伍 | [查看](./resources/skills/tcm-herbs-guide.md) |
+
+### 💬 沟通与心理
+
+| 资源 | 说明 | 链接 |
+|------|------|------|
+| 两性沟通技巧 | 积极倾听、非暴力沟通 | [查看](./resources/communication/couples-communication.md) |
+| 亲密技巧指南 | 前戏、情感连接、和谐之道 | [查看](./resources/communication/intimacy-guide.md) |
+| 自信心建设 | 克服焦虑、建立自信 | [查看](./resources/communication/confidence-building.md) |
+| 情商提升 | 情绪管理、同理心培养 | [查看](./resources/communication/emotional-intelligence.md) |
+| 单身自我提升 | 独处成长、能力提升 | [查看](./resources/communication/self-improvement.md) |
+
+### 📚 更多资源
+
+| 资源 | 说明 | 链接 |
+|------|------|------|
+| PDF电子书库 | 推荐书单与学习资料 | [查看](./resources/pdfs/) |
+| 自然恢复方法 | 生活方式改善指南 | [查看](./education/natural-recovery-methods.md) |
 
 ---
 

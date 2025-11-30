@@ -1,15 +1,31 @@
-# Mac系统文件
+# macOS 系统文件
 .DS_Store
 .AppleDouble
 .LSOverride
+._*
 
-# IDE配置
-.claude/
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
+
+# 编辑器和 IDE
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
 
 # 临时文件
 *.tmp
-*.swp
-*~
+*.temp
+*.log
+*.bak
 
+# Node.js (如果以后用到)
+node_modules/
+
+# 其他
+.env
+*.local
