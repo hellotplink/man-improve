@@ -1,4 +1,4 @@
-# 艾力达 (Levitra) / 伐地那非 (Vardenafil)
+# 艾力达 (Levitra)第三代 / 伐地那非 (Vardenafil)
 
 ## 产品概述
 

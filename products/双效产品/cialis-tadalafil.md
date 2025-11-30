@@ -1,4 +1,4 @@
-# 希爱力 (Cialis) / 他达拉非 (Tadalafil)
+# 希爱力 (Cialis) 第二代（双效）/ 他达拉非 (Tadalafil)
 
 ## 产品概述
 

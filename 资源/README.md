@@ -18,38 +18,38 @@
 
 ### 身体训练
 
-1. **凯格尔运动** → [查看指南](./skills/kegel-exercises.md)
+1. **凯格尔运动** → [查看指南](./技巧/kegel-exercises.md)
    - 每天3组，每组10-15次
    - 8-12周见效
 
-2. **深蹲训练** → [查看指南](./skills/exercise-guide.md)
+2. **深蹲训练** → [查看指南](./技巧/exercise-guide.md)
    - 每周3次
    - 从徒手开始
 
-3. **有氧运动** → [查看指南](./skills/exercise-guide.md)
+3. **有氧运动** → [查看指南](./技巧/exercise-guide.md)
    - 跑步、游泳、骑行
    - 每周3-4次
 
 ### 技巧训练
 
-1. **延时技巧** → [查看指南](./skills/delay-techniques.md)
+1. **延时技巧** → [查看指南](./技巧/delay-techniques.md)
    - 动-停法
    - 挤压法
    - 呼吸控制
 
 ### 饮食调理
 
-1. **营养方案** → [查看指南](./skills/nutrition-tcm-guide.md)
+1. **营养方案** → [查看指南](./技巧/nutrition-tcm-guide.md)
    - 现代营养学
    - 中医食疗
 
 ### 心理提升
 
-1. **沟通技巧** → [查看指南](./communication/couples-communication.md)
+1. **沟通技巧** → [查看指南](./沟通/couples-communication.md)
    - 积极倾听
    - 非暴力沟通
 
-2. **情商培养** → [查看指南](./communication/emotional-intelligence.md)
+2. **情商培养** → [查看指南](./沟通/emotional-intelligence.md)
    - 情绪管理
    - 同理心培养
 

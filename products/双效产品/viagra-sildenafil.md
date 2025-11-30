@@ -1,4 +1,4 @@
-# 万艾可 (Viagra) / 西地那非 (Sildenafil)
+# 万艾可 (Viagra)（单效） / 西地那非 (Sildenafil)
 
 ## 产品概述
 

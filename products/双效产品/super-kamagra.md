@@ -1,4 +1,4 @@
-# 超级卡玛格拉 (Super Kamagra) / 巅峰蓝P
+# 超级卡玛格拉 (Super Kamagra)（第一代双效） / 巅峰蓝P
 
 ## 产品概述
 

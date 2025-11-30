@@ -1,4 +1,4 @@
-# 通用西地那非变种 (Generic Sildenafil Variants) / 菱形、白金蝌蚪等
+# 通用西地那非双效 (Generic Sildenafil Variants) / 菱形、白金蝌蚪等
 
 ## 产品概述
 

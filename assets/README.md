@@ -69,7 +69,7 @@ PDF电子书资源涵盖：
 - 健康养生
 - 补肾壮阳专辑
 
-详细书单请查看 [resources/pdfs/README.md](../resources/pdfs/README.md)
+详细书单请查看 [资源/学习资料/README.md](../资源/学习资料/README.md)
 
 ---
 

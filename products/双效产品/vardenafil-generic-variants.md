@@ -1,4 +1,4 @@
-# 伐地那非通用版本 (Vardenafil Generic Variants) / 绿P、橙色片等
+# 伐地那非(第三代)双效 (Vardenafil Generic Variants)（双效） / 绿P、橙色片等
 
 ## 产品概述
 

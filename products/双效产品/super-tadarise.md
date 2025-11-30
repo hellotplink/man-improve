@@ -1,4 +1,4 @@
-# 超级他达拉菲复方片 (Super Tadarise) / 金钻
+# 超级他达拉菲复方片 (Super Tadarise) （第三代双效）/ 金钻
 
 ## 产品概述
 
