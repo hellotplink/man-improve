@@ -2,7 +2,7 @@
 
 > 专业、全面、客观的男性健康产品科普与教育资源
 
-[English Version](./README.en.md)
+[English Version](./README.en.md)[中文版](./README.md)
 
 ---
 
@@ -15,6 +15,27 @@
 - 切勿自行用药或从非正规渠道购买药物
 - 处方药只能通过合法渠道和有效处方获得
 - 强烈建议通过正规医疗机构进行健康评估
+
+**版权与合规**
+- 本仓库所有学习资料仅供个人学习研究使用
+- 请尊重原作者版权，不得用于商业用途
+- 本项目为 Private 仓库，仅限授权用户访问
+
+---
+
+## 📑 目录
+
+- [项目概述](#项目概述)
+- [项目结构](#项目结构)
+- [产品分类](#产品分类)
+- [自然康复方法](#自然康复方法)
+- [快速查找](#快速查找)
+- [安全使用指南](#安全使用指南)
+- [实用资源中心](#实用资源中心)
+- [贡献指南](#贡献指南)
+- [免责声明](#免责声明)
+- [法律声明](#法律声明)
+- [许可证](#许可证)
 
 ---
 
@@ -46,24 +67,29 @@ man-improve/
 ├── README.en.md              # English Documentation
 ├── LICENSE                   # CC BY-NC-SA 4.0 许可证
 │
-├── products/                 # 产品信息目录
+├── 产品介绍/                 # 产品信息目录
 │   ├── index.md              # 产品分类索引
 │   └── 双效产品/             # 所有产品文档（12个）
-│       ├── viagra-sildenafil.md            # 万艾可（西地那非）
-│       ├── cialis-tadalafil.md             # 希爱力（他达拉非）
-│       ├── levitra-vardenafil.md           # 艾力达（伐地那非）
-│       ├── generic-sildenafil-variants.md  # 西地那非仿制药
-│       ├── tadalafil-generic-variants.md   # 他达拉非仿制药
-│       ├── vardenafil-generic-variants.md  # 伐地那非仿制药
-│       └── super-kamagra.md等              # 双效复方产品
+│       ├── 万艾可伟哥.md            # 万艾可（西地那非）
+│       ├── 希爱力.md                # 希爱力（他达拉非）
+│       ├── 菱形白金蝌蚪.md          # 西地那非仿制药
+│       ├── 金钻.md                  # 他达拉非仿制药
+│       ├── 绿P.md                   # 伐地那非仿制药
+│       ├── 印度果冻.md              # 卡玛格拉口服果冻
+│       ├── 巅峰蓝P.md               # Super Kamagra
+│       ├── 红魔绿水鬼.md            # Super P-Force
+│       ├── 超级希爱力.md            # Super Tadarise
+│       ├── 绿水鬼.md                # Super Vilitra
+│       ├── 绿水鬼1.md               # Super Vilitra (备用)
+│       └── 超级艾力达.md            # Extra Super Zhewitra
 │
-├── education/                # 教育科普资源
-│   ├── natural-recovery-methods.md   # 自然恢复方法
-│   ├── safety-guidelines.md          # 安全使用指南
-│   ├── mechanism-of-action.md        # 作用机制详解
-│   └── drug-interactions.md          # 药物相互作用
+├── 注意事项/                 # 教育科普资源
+│   ├── 男性性功能自然恢复方法指南.md   # 自然恢复方法
+│   ├── 安全使用指南.md                  # 安全使用指南
+│   ├── 药物机制分解.md                  # 作用机制详解
+│   └── 药物嘱咐说明.md                  # 药物相互作用
 │
-├── 资源/                     # 🌟 实用资源（重点内容）
+├── 学习资源/                 # 🌟 实用资源（重点内容）
 │   ├── 技巧/                 # 技巧与方法
 │   │   ├── kegel-exercises.md        # 凯格尔运动指南
 │   │   ├── delay-techniques.md       # 延时训练技巧
@@ -71,11 +97,11 @@ man-improve/
 │   │   ├── nutrition-tcm-guide.md    # 饮食营养调理
 │   │   └── tcm-herbs-guide.md        # 中医药材指南
 │   ├── 沟通/                 # 沟通与情商
-│   │   ├── couples-communication.md  # 两性沟通技巧
-│   │   ├── intimacy-guide.md         # 亲密关系指南
-│   │   ├── confidence-building.md    # 自信心建设
-│   │   ├── emotional-intelligence.md # 情商提升指南
-│   │   └── self-improvement.md       # 自我提升指南
+│   │   ├── 两性沟通技巧指南.md          # 两性沟通技巧
+│   │   ├── 两性和谐与亲密技巧指南.md    # 亲密关系指南
+│   │   ├── 自信心建设与性焦虑克服指南.md # 自信心建设
+│   │   ├── 情商提升指南.md              # 情商提升指南
+│   │   └── 单身期自我提升与心理成长指南.md # 自我提升指南
 │   └── 学习资料/             # PDF电子书资源
 │       ├── 《补肾壮阳专辑》60本合集
 │       └── 沟通技巧、学习方法等
@@ -119,32 +145,33 @@ man-improve/
 **原研药品牌**:
 | 产品名称 | 主要成分 | 俗称 | 特点 |
 |----------|----------|------|------|
-| [万艾可](./products/双效产品/viagra-sildenafil.md) | 西地那非100mg | 伟哥、菱形 | 经典强效 |
-| [希爱力](./products/双效产品/cialis-tadalafil.md) | 他达拉非20mg | 周末丸 | 36小时长效 |
-| [艾力达](./products/双效产品/levitra-vardenafil.md) | 伐地那非20mg | 橙色药片 | 高效价 |
+| [万艾可](./产品介绍/双效产品/万艾可伟哥.md) | 西地那非100mg | 伟哥、菱形 | 经典强效 |
+| [希爱力](./产品介绍/双效产品/希爱力.md) | 他达拉非20mg | 周末丸 | 36小时长效 |
+| [艾力达](./产品介绍/双效产品/超级艾力达.md) | 伐地那非20mg | 橙色药片 | 高效价 |
 
 **仿制药系列**:
 | 产品类别 | 俗称 | 文档链接 |
 |----------|------|----------|
-| 西地那非仿制药 | 菱形、白金蝌蚪 | [详细说明](./products/双效产品/generic-sildenafil-variants.md) |
-| 伐地那非仿制药 | 绿P、绿色片 | [详细说明](./products/双效产品/vardenafil-generic-variants.md) |
-| 他达拉非仿制药 | 金钻、黄片 | [详细说明](./products/双效产品/tadalafil-generic-variants.md) |
+| 西地那非仿制药 | 菱形、白金蝌蚪 | [详细说明](./产品介绍/双效产品/菱形白金蝌蚪.md) |
+| 伐地那非仿制药 | 绿P、绿色片 | [详细说明](./产品介绍/双效产品/绿P.md) |
+| 他达拉非仿制药 | 金钻、黄片 | [详细说明](./产品介绍/双效产品/金钻.md) |
+| 卡玛格拉口服果冻 | 水果味果冻 | [详细说明](./产品介绍/双效产品/印度果冻.md) |
 
 ### SSRI类药物（PE治疗）
 
-| 产品名称 | 主要成分 | 俗称 | 文档链接 |
-|----------|----------|------|----------|
-| 必利劲 | 达泊西汀60mg | Priligy | [详细说明](./products/双效产品/priligy-dapoxetine.md) |
+| 产品名称 | 主要成分 | 俗称 | 说明 |
+|----------|----------|------|------|
+| 必利劲 | 达泊西汀60mg | Priligy | SSRI类延时药物 |
 
 ### 双效复方产品（ED+PE）
 
 | 产品名称 | 成分组合 | 俗称 | 文档链接 |
 |----------|----------|------|----------|
-| Super Kamagra | 西地那非100mg+达泊西汀60mg | 巅峰蓝P | [详细说明](./products/双效产品/super-kamagra.md) |
-| Super P-Force | 西地那非100mg+达泊西汀60mg | 红魔、黑水鬼 | [详细说明](./products/双效产品/super-p-force.md) |
-| Super Tadarise | 他达拉非20mg+达泊西汀60mg | 金钻复方 | [详细说明](./products/双效产品/super-tadarise.md) |
-| Super Vilitra | 伐地那非20mg+达泊西汀60mg | 绿水鬼 | [详细说明](./products/双效产品/super-vilitra.md) |
-| Extra Super Zhewitra | 伐地那非40mg+达泊西汀60mg | 加强版绿水鬼 | [详细说明](./products/双效产品/extra-super-zhewitra.md) |
+| Super Kamagra | 西地那非100mg+达泊西汀60mg | 巅峰蓝P | [详细说明](./产品介绍/双效产品/巅峰蓝P.md) |
+| Super P-Force | 西地那非100mg+达泊西汀60mg | 红魔、黑水鬼 | [详细说明](./产品介绍/双效产品/红魔绿水鬼.md) |
+| Super Tadarise | 他达拉非20mg+达泊西汀60mg | 金钻复方 | [详细说明](./产品介绍/双效产品/超级希爱力.md) |
+| Super Vilitra | 伐地那非20mg+达泊西汀60mg | 绿水鬼 | [详细说明](./产品介绍/双效产品/绿水鬼.md) |
+| Extra Super Zhewitra | 伐地那非40mg+达泊西汀60mg | 加强版绿水鬼 | [详细说明](./产品介绍/双效产品/超级艾力达.md) |
 
 ---
 
@@ -167,7 +194,7 @@ man-improve/
 - **压力管理**: 冥想、深呼吸、放松训练
 - **戒烟限酒**: 改善血管功能和整体健康
 
-[查看完整自然康复指南](./education/natural-recovery-methods.md)
+[查看完整自然康复指南](./注意事项/natural-recovery-methods.md)
 
 ---
 
@@ -175,13 +202,18 @@ man-improve/
 
 | 如果您听说过... | 对应产品 | 查看详情 |
 |----------------|----------|----------|
-| 伟哥、菱形、蓝色小药丸 | 万艾可 (西地那非) | [点击查看](./products/双效产品/viagra-sildenafil.md) |
-| 周末丸、金钻 | 希爱力 (他达拉非) | [点击查看](./products/双效产品/cialis-tadalafil.md) |
-| 橙色药片 | 艾力达 (伐地那非) | [点击查看](./products/双效产品/levitra-vardenafil.md) |
-| 白金蝌蚪、白菱形 | 西地那非仿制药 | [点击查看](./products/双效产品/generic-sildenafil-variants.md) |
-| 绿P、绿水鬼 | 伐地那非相关产品 | [点击查看](./products/双效产品/vardenafil-generic-variants.md) |
-| 巅峰蓝P | Super Kamagra | [点击查看](./products/双效产品/super-kamagra.md) |
-| 红魔、黑水鬼 | Super P-Force | [点击查看](./products/双效产品/super-p-force.md) |
+| 伟哥、菱形、蓝色小药丸 | 万艾可 (西地那非) | [点击查看](./产品介绍/双效产品/万艾可伟哥.md) |
+| 周末丸、希爱力 | 希爱力 (他达拉非) | [点击查看](./产品介绍/双效产品/希爱力.md) |
+| 橙色药片、艾力达 | 艾力达 (伐地那非) | [点击查看](./产品介绍/双效产品/超级艾力达.md) |
+| 白金蝌蚪、白菱形 | 西地那非仿制药 | [点击查看](./产品介绍/双效产品/菱形白金蝌蚪.md) |
+| 绿P、绿蝌蚪 | 伐地那非仿制药 | [点击查看](./产品介绍/双效产品/绿P.md) |
+| 金钻、黄片 | 他达拉非仿制药 | [点击查看](./产品介绍/双效产品/金钻.md) |
+| 水果味果冻 | 卡玛格拉口服果冻 | [点击查看](./产品介绍/双效产品/印度果冻.md) |
+| 巅峰蓝P | Super Kamagra | [点击查看](./产品介绍/双效产品/巅峰蓝P.md) |
+| 红魔、黑水鬼 | Super P-Force | [点击查看](./产品介绍/双效产品/红魔绿水鬼.md) |
+| 金钻复方 | Super Tadarise | [点击查看](./产品介绍/双效产品/超级希爱力.md) |
+| 绿水鬼 | Super Vilitra | [点击查看](./产品介绍/双效产品/绿水鬼.md) |
+| 加强版绿水鬼 | Extra Super Zhewitra | [点击查看](./产品介绍/双效产品/超级艾力达.md) |
 
 ---
 
@@ -199,7 +231,7 @@ man-improve/
 - 胸痛、心悸或呼吸困难
 - 严重过敏反应（皮疹、肿胀等）
 
-[查看完整安全指南](./education/safety-guidelines.md)
+[查看完整安全指南](./注意事项/safety-guidelines.md)
 
 ---
 
@@ -211,33 +243,33 @@ man-improve/
 
 | 资源 | 说明 | 链接 |
 |------|------|------|
-| 凯格尔运动指南 | 盆底肌训练，改善控制能力 | [查看](./资源/技巧/kegel-exercises.md) |
-| 延时训练技巧 | 动-停法、挤压法等科学方法 | [查看](./资源/技巧/delay-techniques.md) |
-| 运动健身指南 | 深蹲、跑步、力量训练 | [查看](./资源/技巧/exercise-guide.md) |
+| 凯格尔运动指南 | 盆底肌训练，改善控制能力 | [查看](./学习资源/技巧/kegel-exercises.md) |
+| 延时训练技巧 | 动-停法、挤压法等科学方法 | [查看](./学习资源/技巧/delay-techniques.md) |
+| 运动健身指南 | 深蹲、跑步、力量训练 | [查看](./学习资源/技巧/exercise-guide.md) |
 
 ### 🌿 饮食与中医
 
 | 资源 | 说明 | 链接 |
 |------|------|------|
-| 饮食营养指南 | 现代营养学调理方案 | [查看](./资源/技巧/nutrition-tcm-guide.md) |
-| 补肾中药指南 | 19种中药详解与配伍 | [查看](./资源/技巧/tcm-herbs-guide.md) |
+| 饮食营养指南 | 现代营养学调理方案 | [查看](./学习资源/技巧/nutrition-tcm-guide.md) |
+| 补肾中药指南 | 19种中药详解与配伍 | [查看](./学习资源/技巧/tcm-herbs-guide.md) |
 
 ### 💬 沟通与心理
 
 | 资源 | 说明 | 链接 |
 |------|------|------|
-| 两性沟通技巧 | 积极倾听、非暴力沟通 | [查看](./资源/沟通/couples-communication.md) |
-| 亲密技巧指南 | 前戏、情感连接、和谐之道 | [查看](./资源/沟通/intimacy-guide.md) |
-| 自信心建设 | 克服焦虑、建立自信 | [查看](./资源/沟通/confidence-building.md) |
-| 情商提升 | 情绪管理、同理心培养 | [查看](./资源/沟通/emotional-intelligence.md) |
-| 单身自我提升 | 独处成长、能力提升 | [查看](./资源/沟通/self-improvement.md) |
+| 两性沟通技巧 | 积极倾听、非暴力沟通 | [查看](./学习资源/沟通/couples-communication.md) |
+| 亲密技巧指南 | 前戏、情感连接、和谐之道 | [查看](./学习资源/沟通/intimacy-guide.md) |
+| 自信心建设 | 克服焦虑、建立自信 | [查看](./学习资源/沟通/confidence-building.md) |
+| 情商提升 | 情绪管理、同理心培养 | [查看](./学习资源/沟通/emotional-intelligence.md) |
+| 单身自我提升 | 独处成长、能力提升 | [查看](./学习资源/沟通/self-improvement.md) |
 
 ### 📚 更多资源
 
 | 资源 | 说明 | 链接 |
 |------|------|------|
-| PDF电子书库 | 推荐书单与学习资料 | [查看](./资源/学习资料/) |
-| 自然恢复方法 | 生活方式改善指南 | [查看](./education/natural-recovery-methods.md) |
+| PDF电子书库 | 推荐书单与学习资料 | [查看](./学习资源/学习资料/) |
+| 自然恢复方法 | 生活方式改善指南 | [查看](./注意事项/natural-recovery-methods.md) |
 
 ---
 
