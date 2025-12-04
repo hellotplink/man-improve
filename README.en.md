@@ -91,11 +91,11 @@ man-improve/
 │
 ├── 学习资源/                 # 🌟 Practical Resources (Key Content)
 │   ├── 技巧/                 # Skills & Techniques
-│   │   ├── kegel-exercises.md        # Kegel Exercises
-│   │   ├── delay-techniques.md       # Delay Techniques
-│   │   ├── exercise-guide.md         # Exercise Guide
-│   │   ├── nutrition-tcm-guide.md    # Nutrition Guide
-│   │   └── tcm-herbs-guide.md        # TCM Herbs Guide
+│   │   ├── 凯格尔运动完整指南.md         # Kegel Exercises
+│   │   ├── 延时训练技巧完整指南.md       # Delay Techniques
+│   │   ├── 男性健康运动指南.md           # Exercise Guide
+│   │   ├── 饮食营养与中医养生指南.md     # Nutrition Guide
+│   │   └── 补肾中药完整指南.md           # TCM Herbs Guide
 │   ├── 沟通/                 # Communication & EQ
 │   │   ├── 两性沟通技巧指南.md          # Couples Communication
 │   │   ├── 两性和谐与亲密技巧指南.md    # Intimacy Guide
@@ -216,43 +216,42 @@ Beyond product knowledge, we provide comprehensive self-improvement resources:
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Kegel Exercise Guide | Pelvic floor training for better control | [View](./学习资源/技巧/kegel-exercises.md) |
-| Delay Training Techniques | Start-stop method, squeeze technique | [View](./学习资源/技巧/delay-techniques.md) |
-| Exercise & Fitness Guide | Squats, running, strength training | [View](./学习资源/技巧/exercise-guide.md) |
+| Kegel Exercise Guide | Pelvic floor training for better control | [View](./学习资源/技巧/凯格尔运动完整指南.md) |
+| Delay Training Techniques | Start-stop method, squeeze technique | [View](./学习资源/技巧/延时训练技巧完整指南.md) |
+| Exercise & Fitness Guide | Squats, running, strength training | [View](./学习资源/技巧/男性健康运动指南.md) |
 
 ### 🌿 Nutrition & TCM
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Nutrition Guide | Modern nutritional approaches | [View](./学习资源/技巧/nutrition-tcm-guide.md) |
-| TCM Herbs Guide | 19 herbs explained with combinations | [View](./学习资源/技巧/tcm-herbs-guide.md) |
+| Nutrition Guide | Modern nutritional approaches | [View](./学习资源/技巧/饮食营养与中医养生指南.md) |
+| TCM Herbs Guide | 19 herbs explained with combinations | [View](./学习资源/技巧/补肾中药完整指南.md) |
 
 ### 💬 Communication & Psychology
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Couples Communication | Active listening, NVC, conflict resolution | [View](./学习资源/沟通/couples-communication.md) |
-| Intimacy Guide | Foreplay, emotional connection, harmony | [View](./学习资源/沟通/intimacy-guide.md) |
-| Confidence Building | Overcome anxiety, build self-esteem | [View](./学习资源/沟通/confidence-building.md) |
-| Emotional Intelligence | Self-awareness, empathy, social skills | [View](./学习资源/沟通/emotional-intelligence.md) |
-| Self Improvement | Personal growth during single life | [View](./学习资源/沟通/self-improvement.md) |
+| Couples Communication | Active listening, NVC, conflict resolution | [View](./学习资源/沟通/两性沟通技巧指南.md) |
+| Intimacy Guide | Foreplay, emotional connection, harmony | [View](./学习资源/沟通/两性和谐与亲密技巧指南.md) |
+| Confidence Building | Overcome anxiety, build self-esteem | [View](./学习资源/沟通/自信心建设与性焦虑克服指南.md) |
+| Emotional Intelligence | Self-awareness, empathy, social skills | [View](./学习资源/沟通/情商提升指南.md) |
+| Self Improvement | Personal growth during single life | [View](./学习资源/沟通/单身期自我提升与心理成长指南.md) |
 
 ### 📚 Additional Resources
 
 | Resource | Description | Link |
 |----------|-------------|------|
 | PDF Library | Recommended books & materials | [View](./学习资源/学习资料/) |
-| Natural Recovery | Lifestyle improvement guide | [View](./注意事项/natural-recovery-methods.md) |
 
 ---
 
 ## More Resources
 
 - [Complete Product Index](./产品介绍/index.md)
-- [Natural Recovery Methods](./注意事项/natural-recovery-methods.md)
-- [Safety Guidelines](./注意事项/safety-guidelines.md)
-- [Mechanism of Action](./注意事项/mechanism-of-action.md)
-- [Drug Interactions](./注意事项/drug-interactions.md)
+- [Natural Recovery Methods](./注意事项/男性性功能自然恢复方法指南.md)
+- [Safety Guidelines](./注意事项/安全使用指南.md)
+- [Mechanism of Action](./注意事项/药物机制分解.md)
+- [Drug Interactions](./注意事项/药物嘱咐说明.md)
 - [PDF Resources](./学习资源/学习资料/)
 - [Skills & Techniques](./学习资源/技巧/)
 - [Communication & EQ](./学习资源/沟通/)
