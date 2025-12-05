@@ -38,6 +38,7 @@
 - [免责声明](#免责声明)
 - [法律声明](#法律声明)
 - [许可证](#许可证)
+- [联系方式](#联系方式)
 
 ---
 
@@ -328,6 +329,18 @@ man-improve/
 ## 许可证
 
 本作品采用 CC BY-NC-SA 4.0 许可证。如需商业使用，请联系维护者。
+
+---
+
+## 📬 联系方式
+
+如有任何问题或建议，欢迎通过以下方式联系：
+
+<p align="center">
+  <img src="./assets/contact/qq.jpg" width="200" alt="QQ联系方式"/>
+  <img src="./assets/contact/tg.jpg" width="200" alt="Telegram联系方式"/>
+  <img src="./assets/contact/wx.jpg" width="200" alt="微信联系方式"/>
+</p>
 
 ---
 
