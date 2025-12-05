@@ -328,16 +328,4 @@ This work is licensed under CC BY-NC-SA 4.0. For commercial use, please contact 
 
 ---
 
-## 📬 Contact
-
-For any questions or suggestions, feel free to reach out via:
-
-<p align="center">
-  <img src="./assets/contact/qq.jpg" width="200" alt="QQ Contact"/>
-  <img src="./assets/contact/tg.jpg" width="200" alt="Telegram Contact"/>
-  <img src="./assets/contact/wx.jpg" width="200" alt="WeChat Contact"/>
-</p>
-
----
-
 *This project is continuously updated. Welcome to Star and Fork!*

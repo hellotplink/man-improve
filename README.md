@@ -332,16 +332,4 @@ man-improve/
 
 ---
 
-## 📬 联系方式
-
-如有任何问题或建议，欢迎通过以下方式联系：
-
-<p align="center">
-  <img src="./assets/contact/qq.jpg" width="200" alt="QQ联系方式"/>
-  <img src="./assets/contact/tg.jpg" width="200" alt="Telegram联系方式"/>
-  <img src="./assets/contact/wx.jpg" width="200" alt="微信联系方式"/>
-</p>
-
----
-
 *本项目持续更新中，欢迎 Star 和 Fork*
