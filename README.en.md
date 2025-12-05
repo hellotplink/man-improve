@@ -32,6 +32,7 @@ This repository is for **EDUCATIONAL PURPOSES ONLY**. All information provided h
 - [Quick Reference](#quick-reference)
 - [Safety Guidelines](#safety-guidelines)
 - [Practical Resources](#practical-resources)
+- [Contact](#contact)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 - [Legal Notice](#legal-notice)
@@ -260,6 +261,28 @@ Beyond product knowledge, we provide comprehensive self-improvement resources:
 - [PDF Resources](./学习资源/学习资料/)
 - [Skills & Techniques](./学习资源/技巧/)
 - [Communication & EQ](./学习资源/沟通/)
+
+---
+
+## Contact
+
+If you have questions or need consultation, please feel free to contact us:
+
+| Contact Method | Account/Number | Description |
+|---------------|----------------|-------------|
+| **QQ** | 168880150 | Scan QR code or search by QQ number |
+| **WeChat** | lemlem2348 | Scan QR code or search by WeChat ID |
+| **Telegram** | @ggbondbond | Click username to contact directly |
+
+### QR Codes
+
+<p align="center">
+  <img src="./assets/images/qq.jpg" width="200" alt="QQ QR Code"/>
+  <img src="./assets/images/wx.png" width="200" alt="WeChat QR Code"/>
+  <img src="./assets/images/tg.png" width="200" alt="Telegram QR Code"/>
+</p>
+
+> 💬 **Note**: This repository is for educational purposes only. For professional medical advice, please consult a qualified healthcare provider.
 
 ---
 
